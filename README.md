@@ -1,3 +1,5 @@
+# ❌ OUTDATED
+
 # FiveM Server Bot Detection 🤖
 
 ## Overview ℹ️
